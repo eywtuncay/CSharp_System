@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\bin\Debug\net8.0\14-HesapMakinesi.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\bin\Debug\net8.0\14-HesapMakinesi.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\bin\Debug\net8.0\14-HesapMakinesi.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\bin\Debug\net8.0\14-HesapMakinesi.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\bin\Debug\net8.0\14-HesapMakinesi.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\obj\Debug\net8.0\14-HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\obj\Debug\net8.0\14-HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\obj\Debug\net8.0\14-HesapMakinesi.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\obj\Debug\net8.0\14-HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\obj\Debug\net8.0\14-HesapMakinesi.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\obj\Debug\net8.0\refint\14-HesapMakinesi.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\obj\Debug\net8.0\14-HesapMakinesi.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\obj\Debug\net8.0\14-HesapMakinesi.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\14-HesapMakinesi\obj\Debug\net8.0\ref\14-HesapMakinesi.dll

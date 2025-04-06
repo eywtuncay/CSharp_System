@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\bin\Debug\net8.0\17-MetotOverloading.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\bin\Debug\net8.0\17-MetotOverloading.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\bin\Debug\net8.0\17-MetotOverloading.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\bin\Debug\net8.0\17-MetotOverloading.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\bin\Debug\net8.0\17-MetotOverloading.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\obj\Debug\net8.0\17-MetotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\obj\Debug\net8.0\17-MetotOverloading.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\obj\Debug\net8.0\17-MetotOverloading.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\obj\Debug\net8.0\17-MetotOverloading.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\obj\Debug\net8.0\17-MetotOverloading.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\obj\Debug\net8.0\refint\17-MetotOverloading.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\obj\Debug\net8.0\17-MetotOverloading.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\obj\Debug\net8.0\17-MetotOverloading.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\17-MetotOverloading\obj\Debug\net8.0\ref\17-MetotOverloading.dll

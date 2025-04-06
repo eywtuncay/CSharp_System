@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\bin\Debug\net8.0\22-OtoparkOtomasyon.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\bin\Debug\net8.0\22-OtoparkOtomasyon.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\bin\Debug\net8.0\22-OtoparkOtomasyon.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\bin\Debug\net8.0\22-OtoparkOtomasyon.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\bin\Debug\net8.0\22-OtoparkOtomasyon.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\obj\Debug\net8.0\22-OtoparkOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\obj\Debug\net8.0\22-OtoparkOtomasyon.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\obj\Debug\net8.0\22-OtoparkOtomasyon.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\obj\Debug\net8.0\22-OtoparkOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\obj\Debug\net8.0\22-OtoparkOtomasyon.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\obj\Debug\net8.0\refint\22-OtoparkOtomasyon.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\obj\Debug\net8.0\22-OtoparkOtomasyon.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\obj\Debug\net8.0\22-OtoparkOtomasyon.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\22-OtoparkOtomasyon\obj\Debug\net8.0\ref\22-OtoparkOtomasyon.dll

@@ -1,0 +1,17 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\bin\Debug\net8.0\01-StundetManagementSystem.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\bin\Debug\net8.0\01-StundetManagementSystem.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\bin\Debug\net8.0\01-StundetManagementSystem.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\bin\Debug\net8.0\01-StundetManagementSystem.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\bin\Debug\net8.0\01-StundetManagementSystem.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\01-StundetManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\01-StundetManagementSystem.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\01-StundetManagementSystem.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\01-StundetManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\01-StundetManagementSystem.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\refint\01-StundetManagementSystem.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\01-StundetManagementSystem.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\01-StundetManagementSystem.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\ref\01-StundetManagementSystem.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\01-StundetManagementSystem.csproj.AssemblyReference.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\14-HesapMakinesi\14-HesapMakinesi\01-StundetManagementSystem\obj\Debug\net8.0\01-Stund.B2CF4B69.Up2Date

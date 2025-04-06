@@ -1,0 +1,14 @@
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\bin\Debug\net8.0\05-Dongüler.exe
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\bin\Debug\net8.0\05-Dongüler.deps.json
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\bin\Debug\net8.0\05-Dongüler.runtimeconfig.json
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\bin\Debug\net8.0\05-Dongüler.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\bin\Debug\net8.0\05-Dongüler.pdb
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\obj\Debug\net8.0\05-Dongüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\obj\Debug\net8.0\05-Dongüler.AssemblyInfoInputs.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\obj\Debug\net8.0\05-Dongüler.AssemblyInfo.cs
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\obj\Debug\net8.0\05-Dongüler.csproj.CoreCompileInputs.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\obj\Debug\net8.0\05-Dongüler.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\obj\Debug\net8.0\refint\05-Dongüler.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\obj\Debug\net8.0\05-Dongüler.pdb
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\obj\Debug\net8.0\05-Dongüler.genruntimeconfig.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\05-Dongüler\obj\Debug\net8.0\ref\05-Dongüler.dll

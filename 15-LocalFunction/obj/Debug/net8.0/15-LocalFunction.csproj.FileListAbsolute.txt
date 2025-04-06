@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\bin\Debug\net8.0\15-LocalFunction.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\bin\Debug\net8.0\15-LocalFunction.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\bin\Debug\net8.0\15-LocalFunction.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\bin\Debug\net8.0\15-LocalFunction.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\bin\Debug\net8.0\15-LocalFunction.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\obj\Debug\net8.0\15-LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\obj\Debug\net8.0\15-LocalFunction.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\obj\Debug\net8.0\15-LocalFunction.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\obj\Debug\net8.0\15-LocalFunction.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\obj\Debug\net8.0\15-LocalFunction.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\obj\Debug\net8.0\refint\15-LocalFunction.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\obj\Debug\net8.0\15-LocalFunction.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\obj\Debug\net8.0\15-LocalFunction.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\15-LocalFunction\obj\Debug\net8.0\ref\15-LocalFunction.dll

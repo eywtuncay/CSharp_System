@@ -1,0 +1,15 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\obj\Debug\net8.0\21-MarmarayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\obj\Debug\net8.0\21-MarmarayApp.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\obj\Debug\net8.0\21-MarmarayApp.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\obj\Debug\net8.0\21-MarmarayApp.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\bin\Debug\net8.0\21-MarmarayApp.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\bin\Debug\net8.0\21-MarmarayApp.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\bin\Debug\net8.0\21-MarmarayApp.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\bin\Debug\net8.0\21-MarmarayApp.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\bin\Debug\net8.0\21-MarmarayApp.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\obj\Debug\net8.0\21-MarmarayApp.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\obj\Debug\net8.0\refint\21-MarmarayApp.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\obj\Debug\net8.0\21-MarmarayApp.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\obj\Debug\net8.0\21-MarmarayApp.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\obj\Debug\net8.0\ref\21-MarmarayApp.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\21-MarmarayApp\obj\Debug\net8.0\21-MarmarayApp.csproj.AssemblyReference.cache

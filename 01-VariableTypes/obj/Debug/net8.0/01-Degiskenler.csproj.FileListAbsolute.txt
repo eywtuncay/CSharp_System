@@ -1,0 +1,14 @@
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\bin\Debug\net8.0\01-Degiskenler.exe
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\bin\Debug\net8.0\01-Degiskenler.deps.json
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\bin\Debug\net8.0\01-Degiskenler.runtimeconfig.json
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\bin\Debug\net8.0\01-Degiskenler.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\bin\Debug\net8.0\01-Degiskenler.pdb
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\obj\Debug\net8.0\01-Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\obj\Debug\net8.0\01-Degiskenler.AssemblyInfoInputs.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\obj\Debug\net8.0\01-Degiskenler.AssemblyInfo.cs
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\obj\Debug\net8.0\01-Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\obj\Debug\net8.0\01-Degiskenler.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\obj\Debug\net8.0\refint\01-Degiskenler.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\obj\Debug\net8.0\01-Degiskenler.pdb
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\obj\Debug\net8.0\01-Degiskenler.genruntimeconfig.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\01-Degiskenler\01-Degiskenler\obj\Debug\net8.0\ref\01-Degiskenler.dll

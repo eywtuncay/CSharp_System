@@ -1,0 +1,14 @@
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\bin\Debug\net8.0\02-KararYapıları.exe
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\bin\Debug\net8.0\02-KararYapıları.deps.json
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\bin\Debug\net8.0\02-KararYapıları.runtimeconfig.json
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\bin\Debug\net8.0\02-KararYapıları.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\bin\Debug\net8.0\02-KararYapıları.pdb
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\obj\Debug\net8.0\02-KararYapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\obj\Debug\net8.0\02-KararYapıları.AssemblyInfoInputs.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\obj\Debug\net8.0\02-KararYapıları.AssemblyInfo.cs
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\obj\Debug\net8.0\02-KararYapıları.csproj.CoreCompileInputs.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\obj\Debug\net8.0\02-KararYapıları.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\obj\Debug\net8.0\refint\02-KararYapıları.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\obj\Debug\net8.0\02-KararYapıları.pdb
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\obj\Debug\net8.0\02-KararYapıları.genruntimeconfig.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\02-KararYapıları\obj\Debug\net8.0\ref\02-KararYapıları.dll

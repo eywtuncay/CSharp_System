@@ -1,0 +1,14 @@
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\bin\Debug\net8.0\03-HesapMakinesi.exe
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\bin\Debug\net8.0\03-HesapMakinesi.deps.json
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\bin\Debug\net8.0\03-HesapMakinesi.runtimeconfig.json
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\bin\Debug\net8.0\03-HesapMakinesi.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\bin\Debug\net8.0\03-HesapMakinesi.pdb
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\obj\Debug\net8.0\03-HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\obj\Debug\net8.0\03-HesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\obj\Debug\net8.0\03-HesapMakinesi.AssemblyInfo.cs
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\obj\Debug\net8.0\03-HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\obj\Debug\net8.0\03-HesapMakinesi.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\obj\Debug\net8.0\refint\03-HesapMakinesi.dll
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\obj\Debug\net8.0\03-HesapMakinesi.pdb
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\obj\Debug\net8.0\03-HesapMakinesi.genruntimeconfig.cache
+C:\Users\TUNCAY\Desktop\BİLGE ADAM\MÜFREDAT\introduction\03-HesapMakinesi\obj\Debug\net8.0\ref\03-HesapMakinesi.dll

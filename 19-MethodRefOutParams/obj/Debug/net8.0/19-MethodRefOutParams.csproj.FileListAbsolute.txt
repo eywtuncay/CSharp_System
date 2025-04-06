@@ -1,0 +1,14 @@
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\bin\Debug\net8.0\19-MethodRefOutParams.exe
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\bin\Debug\net8.0\19-MethodRefOutParams.deps.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\bin\Debug\net8.0\19-MethodRefOutParams.runtimeconfig.json
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\bin\Debug\net8.0\19-MethodRefOutParams.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\bin\Debug\net8.0\19-MethodRefOutParams.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\obj\Debug\net8.0\19-MethodRefOutParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\obj\Debug\net8.0\19-MethodRefOutParams.AssemblyInfoInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\obj\Debug\net8.0\19-MethodRefOutParams.AssemblyInfo.cs
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\obj\Debug\net8.0\19-MethodRefOutParams.csproj.CoreCompileInputs.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\obj\Debug\net8.0\19-MethodRefOutParams.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\obj\Debug\net8.0\refint\19-MethodRefOutParams.dll
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\obj\Debug\net8.0\19-MethodRefOutParams.pdb
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\obj\Debug\net8.0\19-MethodRefOutParams.genruntimeconfig.cache
+C:\Users\halkbankk\Desktop\BİLGE ADAM\MÜFREDAT\introduction\19-MethodRefOutParams\obj\Debug\net8.0\ref\19-MethodRefOutParams.dll
